@@ -1,1 +1,1 @@
-# Neural-Decoding-and-Representation-Across-Visual-Cortex-Layers
+# Neural Decoding and Representation of Visual Cortex Layers
